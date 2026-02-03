@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Ivan!
-- 👀 I’m interested in back-end development.
+- 👀 I’m interested in full-stack development.
 - 🌱 I’m currently learning C# (.NET).
-- 📚 I’m wanting to learn Golang and NodeJS.
+- 📚 I’m wanting to learn Java and Golang.
 - 📫 How to reach me:
 
-Email: ivansantospriv@gmail.com
+  Email: ivansantospriv@gmail.com
