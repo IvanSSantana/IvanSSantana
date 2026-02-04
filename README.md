@@ -51,19 +51,12 @@
 
 ## 📊 GitHub Stats
 
-### 🔥 Activity (Commits)
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=IvanSSantana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
-  />
-</p>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=IvanSSantana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="IvanSSantana's GitHub Stats" />
+    
 
-### 🧠 Most Used Languages
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanSSantana&layout=compact&theme=tokyonight&hide_border=true"
-  />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanSSantana&layout=compact&theme=tokyonight&hide_border=true" alt="IvanSSantana's Most Used Languages" />
+</div>
 
 ---
 
