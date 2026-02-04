@@ -51,13 +51,12 @@
 
 ## 📊 GitHub Stats
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=IvanSSantana&commits_year=2025 alt="IvanSSantana's GitHub Stats" />
-    
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanSSantana&layout=compact&theme=tokyonight&hide_border=true" alt="IvanSSantana's Most Used Languages" />
-</div>
-
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=IvanSSantana&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+</picture>
 ---
 
 ## 📫 How to reach me
