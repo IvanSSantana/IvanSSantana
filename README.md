@@ -51,14 +51,13 @@
 
 ## 📊 GitHub Stats
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=IvanSSantana&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
+## 📊 GitHub Stats
 
-  <img src="https://github-readme-stats.vercel.app/api?username=IvanSSantana&show_icons=true" />
-</picture>
+### 🔥 Activity
+[![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanSSantana&show_icons=true&theme=tokyonight)](https://github.com/IvanSSantana)
+### 🧠 Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanSSantana&layout=compact&theme=tokyonight)](https://github.com/IvanSSantana)
+
 ---
 
 ## 📫 How to reach me
