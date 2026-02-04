@@ -1,18 +1,17 @@
 # 👋 Hi, I’m Ivan!
 
-🎯 **Full-stack developer in progress**, focused on building solid back-end foundations while keeping a clean and functional front-end.
+🎯 **Full-stack developer in progress**, focused on building solid back-end solutions while keeping a clean and functional front-end.
 
 ---
 
 ## 👀 Interests
-- Full-stack development  
-- Back-end architecture  
+- Full-stack development    
 - APIs, databases and automation  
 
 ---
 
 ## 🌱 Currently learning
-- **C# / .NET** (ASP.NET, APIs, ecosystem)
+- **C# / .NET**
 
 ---
 
@@ -51,8 +50,6 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 ### 🔥 Activity
 [![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanSSantana&show_icons=true&theme=tokyonight)](https://github.com/IvanSSantana)
 ### 🧠 Most Used Languages
@@ -65,4 +62,4 @@
 
 ---
 
-⭐ *Always learning, always improving.*
+⭐ *Contiunous Studying Ever*
