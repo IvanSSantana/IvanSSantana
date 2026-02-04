@@ -26,7 +26,7 @@
 
 ### 🧩 Back-end & Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,python,java,go" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,python" />
 </p>
 
 ### 🎨 Front-end
